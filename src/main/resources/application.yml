@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: mall-tiny
+    name: ihrm
   profiles:
     active: dev
 
